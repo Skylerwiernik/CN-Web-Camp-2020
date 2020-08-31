@@ -1,8 +1,11 @@
-const dot = "<img src='dot.png'>"
+const dot = "<img src='dot.png' height='50'>"
 
 async function start() {
 
+
+  
 }
+
 
 
 function random(min, max) {
